@@ -1,0 +1,7 @@
+[Ljava.lang.Object;@3b95a09c
+[Ljava.lang.Object;@3b95a09c
+[Ljava.lang.Object;@573fd745
+Your Name, 0.0, 0.0, BMI: null, null
+Your Name, 0.0, 0.0, BMI: null, null
+hrihi, 140.0, 5.8, BMI: 2925.68, Your BMI is obesel!
+arlene, 190.0, 6.0, BMI: 3710.28, Your BMI is obese!
